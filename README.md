@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>ITE103-HTML</title>
+
 </head>
 
 <body>
